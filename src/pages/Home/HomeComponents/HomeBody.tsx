@@ -1,7 +1,5 @@
 import { Button, Container, Stack, Typography } from '@mui/material';
 import Box from '@mui/material/Box';
-import Paper from '@mui/material/Paper';
-
 const HomeBody = () => {
     return (
         <main>
